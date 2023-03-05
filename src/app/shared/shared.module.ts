@@ -4,7 +4,6 @@ import { SidebarComponent } from './sidebar/sidebar.component';
 import { AppRoutingModule } from '../app-routing.module';
 
 
-
 @NgModule({
   declarations: [
     SidebarComponent
